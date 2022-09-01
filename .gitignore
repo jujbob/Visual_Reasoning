@@ -3,3 +3,4 @@ task4/category_data
 task3/datasets
 .ipynb_checkpoints
 .idea
+*.pt
